@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EvilAly
 - 👀 I’m interested in Java, Python, and relational databases
-- 🌱 This github is a collection of my coursework, divided by class. 
+- 🌱 This github is a collection of coursework from my Associates Degree studies , divided by class. My degree is focused on Database & Program Development.
 
 
 <!---
