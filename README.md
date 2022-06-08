@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ajw0120
-- 👀 I’m interested in Java and Python
-- 🌱 I’m currently learning Java and PHP
+- 👋 Hi, I’m @EvilAly
+- 👀 I’m interested in Java, Python, and relational databases
+- 🌱 This github is a collection of my coursework, divided by class. 
 
 
 <!---
